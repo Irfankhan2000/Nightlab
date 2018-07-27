@@ -1,0 +1,39 @@
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.exe
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csprojResolveAssemblyReference.cache
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csproj.GenerateResource.Cache
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.exe
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.pdb
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.pdb
+C:\Users\Irfan Khan\Desktop\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.exe
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.pdb
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.exe
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.pdb
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csprojResolveAssemblyReference.cache
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Irfan khan\Documents\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csproj.GenerateResource.Cache
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.exe
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csprojResolveAssemblyReference.cache
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csproj.GenerateResource.Cache
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.exe
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.pdb
+F:\vp\Visual Studio 2010\Projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.pdb
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.exe
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.pdb
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.exe
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\bin\Debug\Nightlab28feb.pdb
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csprojResolveAssemblyReference.cache
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Irfan khan\Desktop\projects\Nightlab28feb\Nightlab28feb\obj\x86\Debug\Nightlab28feb.csproj.GenerateResource.Cache
